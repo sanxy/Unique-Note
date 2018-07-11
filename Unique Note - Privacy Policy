@@ -1,0 +1,72 @@
+This privacy policy is designed to provide transparency to your use of SanxyNet application Unique Note for Android devices. 
+This android application allows users to write and manage notes.
+
+# User Provided Information
+If you request information or technical support, your personal data (such as your email address) is used only to respond to specific 
+inquiry.
+
+# Cloud
+Your data can be synchronized with your own cloud account at Google Drive. Restoring your data from a cloud to a new phone or tablet. 
+Your phone and tablet could be also synchronized between each other via a cloud. Please visit Google’s privacy policy  to learn how 
+Google treats your personal data and protects your privacy when using Google Services (Google Drive).
+
+# Advertising
+Unique Note app may display banner ads served by AdMob. 
+Advertising helps us to keep our app free for you to use. 
+Ads won’t be displayed after purchasing “Premium” in-app product.
+
+AdMob is an advertising service provided by AdMob Google Inc. 
+AdMob may use and collect anonymous data about your interests to customize advertising in our app. To do that AdMob uses unique 
+user-resettable Advertising ID, provided by Google Play services. Advertising ID enables users to reset their identifier 
+or opt out of personalized ads (interest-based ads) within Google Play apps (including our app).
+
+In order to understand Google’s use of Data, consult Google’s partner policy.
+
+Opt out of seeing personalized ads
+
+It is possible to opt out of interest-based advertising on your Android device.
+
+Open the “Settings” application on your Android device and select the “Google” menu item. Depending on your device, this option 
+may not be visible on the main menu but you may use the search function at the top of the Settings menu to find it. From there, 
+select the “Ads” sub-item and activate the option “Opt out of Ads Personalisation” to prevent the creation of profiles and the 
+display of personalized advertising. You can delete the advertising ID in the same menu at any time (“Reset advertising ID”), 
+then a new ID will be created which will not be merged with the previously collected data.
+
+Please note that if you choose to “opt out” it does not mean that you will no longer receive advertising. It just means that 
+the advertising you see displayed will not be customized to you and your interests and may be less relevant to you.
+
+# Required Permissions
+Unique Note requires the following permissions:
+
+Network communication (ACCESS_NETWORK_STATE, BILLING, INTERNET)
+
+Permissions are required to synchronize data with your Google Drive, 
+make a purchase through Google Play billing service, load ads from AdMob.
+
+Your accounts (GET_ACCOUNTS, USE_CREDENTIALS, AUTHENTICATE_ACCOUNTS)
+
+Permissions are required to authenticate access to your Google Drive due to synchronization purposes.
+
+Sync settings (READ_SYNC_STATS, READ_SYNC_SETTINGS, WRITE_SYNC_SETTINGS)
+
+Permissions are required due to synchronization purposes.
+
+Storage (WRITE_EXTERNAL_STORAGE)
+
+Permissions are required due to Export & Backup/Restore purposes.
+
+# Security
+The synchronization engine uses protected HTTP Secure (HTTPS) for all the data being sent over the Internet.
+
+Your notes on your Google Drive are stored in non-human readable format (encoded). Note that no other app can access My Notes app data on your Google Drive.
+
+# Your Consent
+By using Unique Note app, you consent to this Privacy Policy.
+
+# Policy changes
+This privacy policy may be updated from time to time for any reason. 
+We will notify you of any changes to My Notes privacy policy by posting the new privacy policy. 
+You are advised to consult this privacy policy regularly for any changes, as continued use is deemed approval of all changes.
+
+# Questions
+If you have any questions about My Notes privacy policy please contact us via email at yusufadefolahan@gmail.com
