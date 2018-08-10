@@ -7,7 +7,6 @@ Unique Note - This notebook is swift and simply for note taking.
 
 Key features:
 * Simple Navigation
-* Organize notes by folders
 * Keep note safe in Google Drive
 * Manage backups
 * Backup note to device memory
