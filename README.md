@@ -14,6 +14,8 @@ Key features:
 * Import backup notes
 * Export note
 * Share note
+* Search note
+* Fully customization of note screen
 * Unlimited note storage
 * Sync notes via Google Drive between devices 
 * Browse and search notes on your device
