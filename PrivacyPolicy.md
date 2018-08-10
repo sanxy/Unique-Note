@@ -53,20 +53,13 @@ Unique Note requires the following permissions:
 
 Network communication (ACCESS_NETWORK_STATE, BILLING, INTERNET)
 
-Permissions are required to synchronize data with your Google Drive, 
-make a purchase through Google Play billing service, load ads from AdMob.
-
-Your accounts (GET_ACCOUNTS, USE_CREDENTIALS, AUTHENTICATE_ACCOUNTS)
-
-Permissions are required to authenticate access to your Google Drive due to synchronization purposes.
-
 Sync settings (READ_SYNC_STATS, READ_SYNC_SETTINGS, WRITE_SYNC_SETTINGS)
 
 Permissions are required due to synchronization purposes.
 
 Storage (WRITE_EXTERNAL_STORAGE)
 
-Permissions are required due to Export & Backup/Restore purposes.
+Permissions are required due to Export & Backup/Restore to device staorage purposes.
 
 ## Log Data
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
