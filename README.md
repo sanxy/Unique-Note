@@ -37,7 +37,7 @@ Key features:
 
 ## License
 
-Pdf Viewer Plus is made available under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+Unique Note Plus is made available under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 ```
 MIT License
 
