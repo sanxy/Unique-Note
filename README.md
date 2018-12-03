@@ -2,7 +2,7 @@
 
 [//]: # (Shields)
 
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/JavaCafe01/PdfViewer/blob/master/LICENSE) 
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sanxy/Unique-Note/blob/master/LICENSE) 
 
 ## Download
 <a href="https://play.google.com/store/apps/details?id=com.sanxynet.uniquenote">
