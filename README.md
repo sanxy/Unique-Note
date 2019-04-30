@@ -33,6 +33,8 @@ Key features:
 * Sync notes via Google Drive between devices 
 * Browse and search notes on your device
 * Make unlimited entries
+* Pdf Viewer
+* Create pdf file from notes and checklists
 
 
 ## License
@@ -41,7 +43,7 @@ Unique Note is made available under the terms of the [MIT License](https://opens
 ```
 MIT License
 
-Copyright (c) 2018 Yusuf Adefolahan
+Copyright (c) 2018-2019 Yusuf Adefolahan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
