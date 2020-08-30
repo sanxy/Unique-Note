@@ -17,6 +17,7 @@ Link to privacy policy of third party service providers used by the app
 * [Google Play Services](https://www.google.com/policies/privacy/)
 * [AdMob](https://support.google.com/admob/answer/6128543?hl=en/)
 * [Firebase Analytics](https://firebase.google.com/policies/analytics/)
+* [StartApp](https://portal.startapp.com/#/pub/reports/analytics)
 
 ## Cloud
 Your data can be synchronized with your own cloud account at Google Drive. Restoring your data from a cloud to a new phone or tablet. 
@@ -28,8 +29,8 @@ Unique Note app may display banner ads served by AdMob.
 Advertising helps us to keep our app free for you to use. 
 Ads won’t be displayed after purchasing “Premium” in-app product.
 
-AdMob is an advertising service provided by AdMob Google Inc. 
-AdMob may use and collect anonymous data about your interests to customize advertising in our app. To do that AdMob uses unique 
+AdMob/StartApp is an advertising service provided by AdMob Google Inc. 
+AdMob/StartApp may use and collect anonymous data about your interests to customize advertising in our app. To do that AdMob uses unique 
 user-resettable Advertising ID, provided by Google Play services. Advertising ID enables users to reset their identifier 
 or opt out of personalized ads (interest-based ads) within Google Play apps (including our app).
 
@@ -53,11 +54,9 @@ Unique Note requires the following permissions:
 
 Network communication (ACCESS_NETWORK_STATE, BILLING, INTERNET)
 
-Sync settings (READ_SYNC_STATS, READ_SYNC_SETTINGS, WRITE_SYNC_SETTINGS)
-
 Permissions are required due to synchronization purposes.
 
-Storage (WRITE_EXTERNAL_STORAGE)
+Storage (WRITE_EXTERNAL_STORAGE)/(READ_EXTERNAL_STORAGE)
 
 Permissions are required due to Export & Backup/Restore to device staorage purposes.
 
